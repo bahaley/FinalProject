@@ -31,4 +31,36 @@
         height: 35.9375rem;
 
      }
+
+
+@media (max-width: 767px) {
+    /* Styles specific to mobile devices */
+    div.About{
+        display:grid;
+        justify-content:center;
+    }
+    div.Highlights{
+        display:grid;
+        justify-content:center;
+    }
+    div.Navigation{
+        display:grid;
+        justify-content:center;
+    }
+    div.Hero{
+        display:grid;
+        justify-content:center;
+    }
+    div.Testimonials{
+        display:grid;
+        justify-content:center;
+    }
+    div.Footer{
+        display:grid;
+        justify-content:center;
+    }
+
+   
+}
+
   
