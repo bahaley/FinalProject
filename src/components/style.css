@@ -1,0 +1,34 @@
+ h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+
+  div.Navigation{
+    height: 7.625rem;
+   
+  }
+  div.Hero{
+    background-color:#495E57;
+    height: 25.875rem;
+   
+  }
+  div.Footer{
+ background-color:#495E57;
+ height:26.0625rem;
+   
+  }
+  div.Testimonials{
+    background-color:#495E57;
+    height: 36.6875rem;
+      
+     }
+
+     div.Highlights{
+        height: 44.1875rem;
+     }
+
+     div.About{
+        height: 35.9375rem;
+
+     }
+  
